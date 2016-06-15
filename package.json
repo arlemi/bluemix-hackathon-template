@@ -1,7 +1,7 @@
 {
-	"name": "Hack4Women",
+	"name": "BluemixHack",
 	"version": "0.0.1",
-	"description": "Website for Hack4Women",
+	"description": "Website for Bluemix Hackathons",
 	"scripts": {
 		"start": "node app.js"
 	},

@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: hackfor2x
-  host: hackfor2x
+  name: bluemixhackhelp
+  host: bluemixhackhelp
   disk_quota: 1024M
